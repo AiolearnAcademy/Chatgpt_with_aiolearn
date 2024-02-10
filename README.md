@@ -6,5 +6,4 @@ To use the chatbot, run the script and enter a question when prompted. The chatb
 Dependencies
 This project requires the requests library, which can be installed with pip:
 
-Copy code
 $ pip install requests
